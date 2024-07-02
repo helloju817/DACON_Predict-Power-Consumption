@@ -43,7 +43,7 @@ XGBoost : 0.212
 최종적으로, XGBoost를 통해 DACON public점수 5.69, private점수 5.03을 기록하였습니다. 
                     
 ### 앞으로 보완할 점 및 느낀 점
-https://github.com/helloju817/HANIUM_ICT_Predict-Power-Consumption
+선행 연구 : https://github.com/helloju817/HANIUM_ICT_Predict-Power-Consumption       
 상단의 2022 한이음 ICT멘토링에서 수행한 전력 예측 프로젝트에서는 종관기상관측(ASOS) 데이터와 한국전력 거래소의 5분 단위 전력 수급 현황 데이터를 활용하여 회귀 모델에 중점을 두고 분석을 진행하였습니다. 
 이를 통해 전력 수요와 기상 데이터 간의 관계를 규명하고, 회귀 분석을 통해 예측 모델을 구축하는 데 집중하였습니다.     
 회귀 모델을 활용한 이 프로젝트는 데이터 분석 기법의 기초를 다지는 데 큰 도움이 되었으며, 다양한 회귀 모델을 비교하고 최적의 성능을 도출하는 경험을 쌓을 수 있었습니다.    
