@@ -5,10 +5,10 @@ LS 빅데이터 교육과정에서 진행한 전력사용량 예측 프로젝트
 ## 📝 프로젝트 설명
 
 ### 📅 선행 연구
-[2022 한이음 ICT멘토링 프로젝트](https://github.com/helloju817/HANIUM_ICT_Predict-Power-Consumption) 에서는 ASOS와 전력 수급 데이터를 활용한 회귀 모델로 전력 수요 예측을 분석했습니다.
+[2022 한이음 ICT멘토링 프로젝트](https://github.com/helloju817/HANIUM_ICT_Predict-Power-Consumption) 에서는 ASOS와 전력 수급 데이터를 활용한 '회귀 모델'로 전력 수요 예측 분석 진행
 
 ### 📈 이번 프로젝트
-이번 LS 빅데이터 전력 예측 프로젝트에서는 ARIMA, SARIMA, Prophet을 사용한 시계열 분석으로 데이터의 주기성과 패턴을 심층적으로 분석했습니다.
+이번 LS 빅데이터 전력 예측 프로젝트에서는 ARIMA, SARIMA, Prophet을 사용한 시계열 분석으로 데이터의 주기성과 패턴을 심층 분석과 XGBoost를 활용한 회귀 분석 수행
 - **ARIMA**: 자율회귀이동평균모델
 - **SARIMA**: 계절성을 포함한 자율회귀이동평균모델
 - **Prophet**: Facebook에서 개발한 시계열 예측 모델
